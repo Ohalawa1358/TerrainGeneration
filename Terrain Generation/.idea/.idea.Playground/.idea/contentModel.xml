@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\OmarH\.Rider2018.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\OmarH\.Rider2018.2\system\resharper-host\local\Transient\ReSharperHost\v182\SolutionCaches\_Playground.-1078541363.00" t="ExcludeRecursive" />
+    <e p="D:\_Projects\Playground" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Editor" t="Include">
+          <e p="MapGeneratorEditor.cs" t="Include" />
+        </e>
+        <e p="Low Poly FPS Pack - Free (Sample)" t="Include">
+          <e p="Components" t="Include">
+            <e p="Demo_Scene_Components" t="Include">
+              <e p="Scripts" t="Include">
+                <e p="DebrisScript.cs" t="Include" />
+                <e p="ExplosiveBarrelScript.cs" t="Include" />
+                <e p="TargetScript.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Scripts" t="Include">
+              <e p="Bullet" t="Include">
+                <e p="BulletScript.cs" t="Include" />
+              </e>
+              <e p="Casings_&amp;_Projectiles" t="Include">
+                <e p="CasingScript.cs" t="Include" />
+                <e p="GrenadeScript.cs" t="Include" />
+              </e>
+              <e p="Explosions_&amp;_Impacts" t="Include">
+                <e p="ExplosionScript.cs" t="Include" />
+                <e p="ImpactScript.cs" t="Include" />
+              </e>
+              <e p="FPSController" t="Include">
+                <e p="FpsControllerLPFP.cs" t="Include" />
+              </e>
+              <e p="Misc" t="Include">
+                <e p="LookAtCamera.cs" t="Include" />
+              </e>
+              <e p="Weapon_Scripts" t="Include">
+                <e p="AutomaticGunScriptLPFP.cs" t="Include" />
+                <e p="HandgunScriptLPFP.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="EndlessTerrain.cs" t="Include" />
+          <e p="EnemyHealth.cs" t="Include" />
+          <e p="FpsMovement.cs" t="Include" />
+          <e p="Grid.cs" t="Include" />
+          <e p="MapDisplay.cs" t="Include" />
+          <e p="MapGenerator.cs" t="Include" />
+          <e p="MeshGenerator.cs" t="Include" />
+          <e p="MouseLook.cs" t="Include" />
+          <e p="Noise.cs" t="Include" />
+          <e p="OrbitCamera.cs" t="Include" />
+          <e p="PlayerMovement.cs" t="Include" />
+          <e p="Projectile.cs" t="Include" />
+          <e p="TextureGenerator.cs" t="Include" />
+          <e p="WeaponScript.cs" t="Include" />
+        </e>
+        <e p="ZombieAI.cs" t="Include" />
+      </e>
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Playground.sln" t="IncludeFlat" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
